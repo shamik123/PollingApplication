@@ -19,3 +19,5 @@ It supports GET, POST and DELETE requests.
 The sample application to be monitored is available in the git repo https://github.com/shamik123/PolledApplication.git. The sample monitored application will be run on port 8091.
 
 The Application provides a simple UI to show a listing of the Service and their status.
+
+The sample UI is visible at http://localhost:8090/TestApp.
